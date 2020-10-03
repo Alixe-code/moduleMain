@@ -1,0 +1,6 @@
+[submodule "mou1"]
+	path = mou1
+	url = https://github.com/Alixe-code/moduleTest1.git
+[submodule "mou3"]
+	path = mou3
+	url = https://github.com/Alixe-code/moduleTest3.git
