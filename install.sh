@@ -11,7 +11,7 @@ git reset --hard
 git pull origin main
 git checkout main
 
-cd mou3
+cd ../mou3
 git submodule init
 git submodule update
 
